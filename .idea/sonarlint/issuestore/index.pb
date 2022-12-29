@@ -1,3 +1,23 @@
 
+p
+@src/main/java/com/binar/chapter7/model/request/FilmsRequest.java,1\3\13561dbc90a961203d8396cec3e89c8d15ca7cf3
+r
+Bsrc/main/java/com/binar/chapter7/model/response/FilmsResponse.java,7\9\79e2c6e9b71010f124597cbe982d87211bb0427a
+t
+Dsrc/main/java/com/binar/chapter7/model/response/MessageResponse.java,0\4\04958f436128feed7da5ef06b3ee04241dabba68
+a
+1src/main/java/com/binar/chapter7/model/Films.java,0\8\08f898f718467fc4efe5da2a171a944509e0da59
+e
+5src/main/java/com/binar/chapter7/model/Schedules.java,9\1\919dfa7403afa3dc795823a62e2aca00a288dcf7
+p
+@src/main/java/com/binar/chapter7/repository/FilmsRepository.java,2\a\2aba48c9cec9b4e641403cd01ff675f722556b68
+t
+Dsrc/main/java/com/binar/chapter7/repository/SchedulesRepository.java,b\2\b2215777307dbc72c2bc783a184f320465c00515
+p
+@src/main/java/com/binar/chapter7/repository/SeatsRepository.java,5\e\5eef76719c7692c9c7bb064af30d9e7e9dba84ac
+j
+:src/main/java/com/binar/chapter7/service/FilmsService.java,5\a\5ada76927db0a77fe95bd59d542fd0ffdeb3cf85
+n
+>src/main/java/com/binar/chapter7/service/FilmsServiceImpl.java,e\3\e37f20540489c0de710823b6590798ed029fd080
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
